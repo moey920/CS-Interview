@@ -115,8 +115,7 @@ HTTP 메시지의 payload로 전달되는 모든 것은 하나의 representation
 
 2014년에 HTTP/1.1이 개정되기 전 까지는 representation의 개념이 명세에 명확하게 드러나 있지 않았기 때문이다. 예를 들어 1999년부터 15년간 HTTP/1.1 명세였던 RFC 2616의 GET 메서드 정의는 다음과 같다.
 
-The GET method means retrieve whatever information (in the form of an
-entity) is identified by the Request-URI.
+> The GET method means retrieve whatever information (in the form of an entity) is identified by the Request-URI.
 
 이처럼 representation에 대한 명시적인 언급이 없었다.
 
