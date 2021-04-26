@@ -2,7 +2,7 @@
 
 먼저, 정적 페이지와 동적 페이지를 알아보자
 
-![static_danimic_page.png](./image.png)
+![Web/static_dinamic_page.png](./image.png)
 
 #Static Pages
 
