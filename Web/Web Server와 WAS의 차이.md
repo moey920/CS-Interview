@@ -4,7 +4,7 @@
 
 ![정적, 동적 페이지](static_dinamic_page.png)
 
-#Static Pages
+#Static Pages 
 
 > 바뀌지 않는 페이지
 
